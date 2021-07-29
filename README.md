@@ -1,5 +1,7 @@
 # ccd-api
 
-Api for Convivencia con Dios comunity developed in NodeJs.
+Api developed in NodeJs for Convivencia con Dios comunity.
 
-Visit the [CcD home](https://convivenciacondios.org/web/) for know more about Convivencia con Dios
+Visit the [CcD home](https://convivenciacondios.org/web/) for know more about Convivencia con Dios.
+
+Thank you!
